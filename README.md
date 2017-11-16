@@ -4,4 +4,4 @@
 效果预览，两种方式实现相同的效果
 ---------------------------------  
 
-![image](https://github.com/silladus/HorizontalPickerView/blob/master/HorizontalPickerView/img/ezgif.com-video-to-gif.gif)
+![image](https://github.com/silladus/HorizontalPickerView/blob/master/img/ezgif.com-video-to-gif.gif)
